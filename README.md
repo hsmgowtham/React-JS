@@ -17,3 +17,12 @@ If the package in the repositories suits your needs, this is all you need to do 
 sudo apt install npm
 ```
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
+
+- create react app
+```
+npx create-react-app my-react-app
+```
+
+npx create-react-app my-react-app
+
+npm start
