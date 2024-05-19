@@ -1,5 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+function Header() {
+  return (
+    <header>
+      <nav>
+      <img src={logo} className="App-logo" alt="logo" width="100px" />
+
+      </nav>
+    </header>
+  )
+}
 
 function App() {
   return (
@@ -23,3 +33,4 @@ function App() {
 }
 
 export default App;
+export {Header};
