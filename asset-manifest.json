@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-JS/static/css/main.57e8f2c5.chunk.css",
-    "main.js": "/React-JS/static/js/main.e6b1db29.chunk.js",
-    "main.js.map": "/React-JS/static/js/main.e6b1db29.chunk.js.map",
-    "runtime~main.js": "/React-JS/static/js/runtime~main.bef05391.js",
-    "runtime~main.js.map": "/React-JS/static/js/runtime~main.bef05391.js.map",
-    "static/js/2.958092a7.chunk.js": "/React-JS/static/js/2.958092a7.chunk.js",
-    "static/js/2.958092a7.chunk.js.map": "/React-JS/static/js/2.958092a7.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/React-JS/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/React-JS/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/React-JS/index.html",
-    "precache-manifest.fa4012a3b437a9e04bd43f900ee2ac70.js": "/React-JS/precache-manifest.fa4012a3b437a9e04bd43f900ee2ac70.js",
-    "service-worker.js": "/React-JS/service-worker.js",
-    "static/css/main.57e8f2c5.chunk.css.map": "/React-JS/static/css/main.57e8f2c5.chunk.css.map",
-    "static/media/logo.svg": "/React-JS/static/media/logo.06e73328.svg"
+    "main.css": "/React-JS-1/static/css/main.57e8f2c5.chunk.css",
+    "main.js": "/React-JS-1/static/js/main.e6b1db29.chunk.js",
+    "main.js.map": "/React-JS-1/static/js/main.e6b1db29.chunk.js.map",
+    "runtime~main.js": "/React-JS-1/static/js/runtime~main.05273f3d.js",
+    "runtime~main.js.map": "/React-JS-1/static/js/runtime~main.05273f3d.js.map",
+    "static/js/2.958092a7.chunk.js": "/React-JS-1/static/js/2.958092a7.chunk.js",
+    "static/js/2.958092a7.chunk.js.map": "/React-JS-1/static/js/2.958092a7.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/React-JS-1/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/React-JS-1/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/React-JS-1/index.html",
+    "precache-manifest.693e8c3de894734db559e4eb4740aa41.js": "/React-JS-1/precache-manifest.693e8c3de894734db559e4eb4740aa41.js",
+    "service-worker.js": "/React-JS-1/service-worker.js",
+    "static/css/main.57e8f2c5.chunk.css.map": "/React-JS-1/static/css/main.57e8f2c5.chunk.css.map",
+    "static/media/logo.svg": "/React-JS-1/static/media/logo.06e73328.svg"
   }
 }
