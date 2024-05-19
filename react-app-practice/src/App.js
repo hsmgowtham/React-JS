@@ -1,11 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+
 function Header() {
   return (
     <header>
-      <nav>
+      <nav className='nav'>
       <img src={logo} className="App-logo" alt="logo" width="100px" />
-
+      <ul className='nav-items'>
+        <li>About</li>
+        <li>Home</li>
+        <li>Projects</li>
+      </ul>
       </nav>
     </header>
   )
@@ -14,23 +19,10 @@ function Header() {
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
     </div>
   );
 }
 
 export default App;
-export {Header};
+// export {Header};
