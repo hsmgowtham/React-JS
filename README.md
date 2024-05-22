@@ -1,7 +1,3 @@
-Sure! Here’s an improved version of your README with better formatting and structure:
-
----
-
 # React-JS 
 ## Overview
 
